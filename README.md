@@ -8,6 +8,22 @@
 
 ---
 
+### Minhas Estatísticas e Linguagens Favoritas
+
+<p align="center">
+  <a href="https://github.com/Renzo-Tognella">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzo-Tognella&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Renzo-Tognella">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Renzo-Tognella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+</p>
+
+---
+
 ### Sobre Mim
 
 - Atualmente programando em **Python** e **C**
