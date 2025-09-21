@@ -1,4 +1,4 @@
-### Olá, eu sou o Renzo! 👋
+### Olá, eu sou o Renzo!
 
 <p align="center">
   <a href="https://github.com/Renzo-Tognella">
@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Minhas Estatísticas e Linguagens Favoritas
+### Minhas Estatísticas e Linguagens Favoritas
 
 <p align="center">
   <a href="https://github.com/Renzo-Tognella">
@@ -24,17 +24,17 @@
 
 ---
 
-### 💻 Sobre Mim
+### Sobre Mim
 
-- 👨‍💻 Atualmente programando em **Python** e **C**
-- 🧠 Aprendendo sobre **Inteligência Artificial** e **Ruby on Rails**
-- 🎯 Focado em desenvolvimento de sistemas e redes de computadores
-- 📚 Estudante apaixonado por tecnologia e inovação
-- 🌱 Sempre em busca de novos desafios e conhecimentos
+- Atualmente programando em **Python** e **C**
+- Aprendendo sobre **Inteligência Artificial** e **Ruby on Rails**
+- Focado em desenvolvimento de sistemas e redes de computadores
+- Estudante apaixonado por tecnologia e inovação
+- Sempre em busca de novos desafios e conhecimentos
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  💡 <em>"A tecnologia é melhor quando aproxima as pessoas."</em>
+  <em>"A tecnologia é melhor quando aproxima as pessoas."</em>
 </p>
