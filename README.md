@@ -26,7 +26,6 @@
 
 ### Sobre Mim
 
-- Atualmente programando em **Python** e **C**
 - Aprendendo sobre **Inteligência Artificial** e **Ruby on Rails**
 - Focado em desenvolvimento de sistemas e redes de computadores
 - Estudante apaixonado por tecnologia e inovação
