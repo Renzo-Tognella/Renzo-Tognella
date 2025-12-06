@@ -1,13 +1,5 @@
 ### Olá, eu sou o Renzo!
 
-<p align="center">
-  <a href="https://github.com/Renzo-Tognella">
-    <img src="https://raw.githubusercontent.com/Renzo-Tognella/Renzo-Tognella/output/github-contribution-grid-snake.svg" alt="Snake animation">
-  </a>
-</p>
-
----
-
 ### Minhas Estatísticas e Linguagens Favoritas
 
 <p align="center">
@@ -27,7 +19,7 @@
 ### Sobre Mim
 
 - Aprendendo sobre **Inteligência Artificial** e **Ruby on Rails**
-- Focado em desenvolvimento de sistemas e redes de computadores
+- Focado em desenvolvimento de sistemas
 - Estudante apaixonado por tecnologia e inovação
 - Sempre em busca de novos desafios e conhecimentos
 
