@@ -2,15 +2,6 @@
 
 # Hey, I'm Renzo
 
-<a href="https://github.com/Renzo-Tognella">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renzo-Tognella&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&ring_color=6366f1" />
-</a>
-<a href="https://github.com/Renzo-Tognella">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzo-Tognella&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=e2e8f0&langs_count=8" />
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Engineer;Cloud+Native+%7C+Distributed+Systems;Building+things+that+scale" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -41,7 +32,6 @@
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 **AI & LLM Engineering**
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
